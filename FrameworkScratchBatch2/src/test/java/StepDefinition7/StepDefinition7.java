@@ -20,6 +20,7 @@ public class StepDefinition7 extends BaseClass {
 	public void user_loads_the_parabanking_website_in_the_browser() {
 		
 	System.out.println("The title of WebPage is  "+getTitle());	
+		System.out.println("Hello");
 	    
 	}
 	
